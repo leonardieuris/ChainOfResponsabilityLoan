@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsabilityLoanLibrary", "ChainOfResponsabilityLoanLibrary\ChainOfResponsabilityLoanLibrary.csproj", "{AB7B8162-414B-4C1A-BD9E-304CD461E11D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsabilityConsoleApp", "ChainOfResponsabilityConsoleApp\ChainOfResponsabilityConsoleApp.csproj", "{88C1C251-72EA-417B-98B5-3E0A4A775D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7B8162-414B-4C1A-BD9E-304CD461E11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7B8162-414B-4C1A-BD9E-304CD461E11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7B8162-414B-4C1A-BD9E-304CD461E11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7B8162-414B-4C1A-BD9E-304CD461E11D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C1C251-72EA-417B-98B5-3E0A4A775D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C1C251-72EA-417B-98B5-3E0A4A775D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C1C251-72EA-417B-98B5-3E0A4A775D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C1C251-72EA-417B-98B5-3E0A4A775D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E0202B1-51D2-4436-AE8F-342FCFB062C3}
+	EndGlobalSection
+EndGlobal
